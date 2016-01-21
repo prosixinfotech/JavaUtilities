@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 
 public class Helper {
     
-    private static final String dialogTitle="OpenCV";
+    private static final String dialogTitle="Prosix";
     
     
     public static class MessageHelper{
