@@ -9,8 +9,7 @@ import javax.swing.JOptionPane;
 
 public class Helper {
     
-
-    private static final String dialogTitle="ProsixInfotech";
+    private static final String dialogTitle="ProsixInfotech.com";
     
     
     public static class MessageHelper{
