@@ -1,8 +1,11 @@
-package com.xuggle.util;
-
 import java.awt.Component;
 import java.util.Properties;
 import javax.swing.JOptionPane;
+
+/**
+ *
+ * @author Arjun
+ */
 
 public class Helper {
     
