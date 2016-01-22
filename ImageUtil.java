@@ -1,5 +1,3 @@
-package com.xuggle.util;
-
 import java.awt.Graphics2D;
 import java.awt.Image;
 import java.awt.RenderingHints;
